@@ -36,8 +36,8 @@ The pipeline ingests a 16,000+ row Kaggle dataset, applies cleaning and feature 
 
 | Page | Description |
 |------|-------------|
-| [📊 Overview](images/vue ensemble.pdf) | Global KPIs, top games, sales summary |
-| [🎮 Genre Analysis](images/Genres et Plateformes.pdf) | Sales by genre, avg performance, top titles per genre |
+| [📊 Overview](images/vue_ensemble.pdf) | Global KPIs, top games, sales summary |
+| [🎮 Genre Analysis](images/Genres_Plateformes.pdf) | Sales by genre, avg performance, top titles per genre |
 | [🏢 Publisher Rankings](images/editeurs.pdf) | Publisher leaderboard, blockbuster counts, genre diversity |
 | [🌍 Regional Sales](images/regions.pdf) | NA / EU / JP / Other breakdown and comparisons |
 | [📅 Temporal Trends](images/temps.pdf) | Year-over-year sales evolution by decade and genre |
