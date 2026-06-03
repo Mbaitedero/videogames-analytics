@@ -1,0 +1,1 @@
+"""API module for Video Games Analytics Platform"""

@@ -1,0 +1,34 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+__pycache__/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+*.csv
+*.parquet
+*.db
+*.duckdb
+logs/
+
+# Elasticsearch
+elasticsearch-*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+*.pem
